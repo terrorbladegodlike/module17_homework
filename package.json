@@ -1,0 +1,25 @@
+{
+  "name": "module17_homework",
+  "version": "1.0.0",
+  "description": "module17_homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrorbladegodlike/module17_homework.git"
+  },
+  "author": "terrorbladegodlike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terrorbladegodlike/module17_homework/issues"
+  },
+  "homepage": "https://github.com/terrorbladegodlike/module17_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
